@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya Kumar
 - 👀 I’m interested in everything which is inspired me.
-- 🌱 I’m currently learning Data Science & Business Analytics
+- 🌱 I’m currently pursuing Data Science & Business Analytics course.
 - 💞️ I’m looking to collaborate on Data Science project.
 - 📫 you can reach me through my email id attchdsurya001@gmail.com
 
