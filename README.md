@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Surya Kumar
 - 👀 I’m interested in everything which is inspired me.
 - 🌱 I’m currently pursuing Data Science & Business Analytics course.
-- 💞️ I’m looking for an opportunity in Data Science.
+- 💞️ I’m working in Technocolabs Softwares Pvt. Ltd as an Intern.
 - 📫 you can reach me through my email id attchdsurya001@gmail.com
 
 <!---
